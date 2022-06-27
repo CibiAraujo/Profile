@@ -28,7 +28,7 @@ const App = () => {
        <Image accessibilityLabel='Rosto de Cibi com um quadro na parece ao fundo' style={styles.avatar} source={{uri: imageProfileGitHub}}/>
        <Text accessibilityLabel='Nome: Cibelly Araújo' style={[styles.defaultText, styles.name]}>Cibelly Araújo</Text>
        <Text accessibilityLabel='Nickname: Cibi Araújo' style={[styles.defaultText, styles.nickname]}>Cibi Araújo</Text>
-       <Text accessibilityLabel='Descrição: Estudante Dev Decola Tech' style={[styles.defaultText, styles.description]}>Estudante Dev Decola Tech</Text>
+       <Text accessibilityLabel='Descrição: Estudante Dev Decola Tec-Dio' style={[styles.defaultText, styles.description]}>Estudante Dev Decola Tech</Text>
        
        
        <Pressable onPress={handlePressGoToGitHub}>
